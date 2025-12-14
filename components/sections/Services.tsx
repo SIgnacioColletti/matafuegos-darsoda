@@ -32,7 +32,7 @@ const services: Service[] = [
     fullDesc:
       "Ofrecemos una amplia gama de matafuegos de las mejores marcas del mercado. Contamos con equipos de polvo quimico ABC, CO2, agua y espuma, en diferentes capacidades para adaptarnos a las necesidades de cada cliente.",
     features: [
-      "Matafuegos ABC de 1kg a 10kg",
+      "Matafuegos ABC de 1kg a 100kg",
       "Extintores de CO2",
       "Matafuegos para vehiculos",
       "Equipos industriales",
@@ -48,7 +48,7 @@ const services: Service[] = [
     fullDesc:
       "Realizamos la recarga y mantenimiento de matafuegos siguiendo las normas IRAM. Nuestro servicio incluye prueba hidrostatica, cambio de componentes y certificacion correspondiente.",
     features: [
-      "Recarga certificada IRAM",
+      "Recarga certificada ",
       "Prueba hidrostatica",
       "Cambio de valvulas y mangueras",
       "Retiro y entrega sin cargo",

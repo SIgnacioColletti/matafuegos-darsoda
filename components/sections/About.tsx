@@ -175,7 +175,7 @@ export default function About() {
               {/* Overlay con info */}
               <div className="absolute bottom-0 left-0 right-0 bg-linear-to-t from-black/80 to-transparent p-6">
                 <h4 className="text-2xl font-bold text-white mb-1">
-                  Dar Soda SRL
+                  Matafuegos Dar Soda SRL
                 </h4>
                 <p className="text-gray-300">Rosario, Santa Fe</p>
                 <div className="flex gap-4 mt-3">
@@ -184,7 +184,9 @@ export default function About() {
                     <p className="text-xs text-gray-300">Fundacion</p>
                   </div>
                   <div className="bg-white/20 backdrop-blur-sm rounded-lg px-3 py-2">
-                    <p className="text-xl font-bold text-white">IRAM</p>
+                    <p className="text-xl font-bold text-white">
+                      bureau Veritas
+                    </p>
                     <p className="text-xs text-gray-300">Certificados</p>
                   </div>
                 </div>

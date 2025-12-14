@@ -12,8 +12,9 @@ const certifications = [
   },
   {
     icon: <Shield className="w-12 h-12" />,
-    title: "IRAM",
-    description: "Normas argentinas de seguridad",
+    title: "bureau Veritas",
+    description:
+      "certificación, inspección y auditoría que verifica que productos, servicios y procesos cumplan con normas de calidad, seguridad",
   },
   {
     icon: <FileCheck className="w-12 h-12" />,
